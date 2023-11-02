@@ -1,0 +1,34 @@
+[{
+    "id": "1",
+    "title": "Alfajor Tatin",
+    "description": "Alfajor de dulce de leche con baño de repostería, tamaño doble o triple",
+    "price": "$150",  
+    "code": "1234", 	    
+    "status": true,
+    "stock": 100,		
+    "category": "Economico",		
+    "thumbnail": "https://acdn.mitiendanube.com/stores/001/160/839/products/project_20200926_0840190-011-2ee43349b36000b48716011206820183-1024-1024.png'"
+},
+{
+    "id": "2" , 
+    "title": "Alfajor Oreo",
+    "description": "El detalle reside en el relleno doble que posee: el blanco, característico de la galletita rellena, y dulce de leche",
+    "price": "$250",  
+    "code": 4525,
+    "status": true, 
+    "stock": 150,	
+    "category": "Medio",
+    "thumbnail": "https://ardiaprod.vtexassets.com/arquivos/ids/259160/Alfajor-Triple-Oreo-56-Gr-_1.jpg?v=638281456090200000"
+},
+{
+    "id": "3" , 
+    "title": "Alfajor Aguila",
+    "description": "Todo bañado en chocolate y una fina capa de coco rallado por afuera. La textura, también es suave y tipo torta, como el de chocolate",
+    "price": "$350",  
+    "code": "2018",
+    "status": true, 
+    "stock": 100,
+    "category": "Alto",			
+    "thumbnail": "https://arcorencasa.com/wp-content/uploads/2023/08/20230824-13360.jpg"
+}
+]
